@@ -1,0 +1,20 @@
+{
+  "product": {
+    "repository": "subtitle-telop-multilingual-width-check",
+    "title": "字幕・テロップ・多言語表示幅チェック"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "字幕・テロップ・多言語表示幅チェック 正常ケース",
+      "source": "source-ok",
+      "timecode": "timecode-ok",
+      "text": "text-ok",
+      "maxWidth": "maxWidth-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "readingSpeed": "ready"
+    }
+  ]
+}
