@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\WindowsApp\\created_idea_013_subtitle-telop-multilingual-width-check",
+  "zip": "D:\\AI\\WindowsApp\\created_idea_013_subtitle-telop-multilingual-width-check\\idea_013_subtitle-telop-multilingual-width-check.zip",
+  "rank": 26,
+  "domain": "WindowsApp",
+  "ideaNo": 13,
+  "title": "字幕・テロップ・多言語表示幅チェック",
+  "overview": "字幕、焼き込みテロップ、OCRテキスト、多言語翻訳、文字数、表示幅、改行、読み上げ速度を確認する。",
+  "problem": "字幕やテロップは誤字、表示ズレ、翻訳後の幅崩れが書き出し後に見つかりやすい。",
+  "differentiation": "翻訳候補と表示プレビューを同じタイムコード上で検品する。"
+}
