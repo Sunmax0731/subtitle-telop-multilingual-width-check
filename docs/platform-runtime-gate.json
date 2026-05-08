@@ -1,0 +1,11 @@
+{
+  "product": "subtitle-telop-multilingual-width-check",
+  "title": "字幕・テロップ・多言語表示幅チェック",
+  "domain": "WindowsApp",
+  "ideaNo": 13,
+  "platformType": "windows-local-app",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
